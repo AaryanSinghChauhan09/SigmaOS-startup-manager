@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-startup-manager"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS startup-manager component"
+
+[lib]
+name = "startup_manager"
+path = "src/lib.rs"
